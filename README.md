@@ -1,1 +1,1 @@
-current working directory
+alx project readme
